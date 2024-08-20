@@ -31,6 +31,7 @@ Consulte la aplicación en vivo: Country App en Netlify.
 1.  Información del país: muestra datos sobre países recuperados a través de una API GraphQL.
 2.  Funcionalidad de búsqueda: permite a los usuarios buscar países por nombre, región o código ISO.
 3.  Mapa interactivo: Pins and popups en un mapa para cada país usando coordenadas del archivo country.json
+4.  Responsive Design: optimizado para vistas de escritorio y móviles.
 
 ## 🛠️ Pila de tecnología
 
